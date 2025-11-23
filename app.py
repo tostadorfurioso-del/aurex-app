@@ -14,7 +14,7 @@ import io
 # 👇👇👇 ZONA CRÍTICA: PEGA TU CLAVE DE GOOGLE AQUÍ ABAJO 👇👇👇
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-API_KEY = AIzaSyBcqFlPe5l9AGNvM1uojyZMhT4IzqVcMkE
+API_KEY = "AIzaSyBcqFlPe5l9AGNvM1uojyZMhT4IzqVcMkE"
 
 # 👆 En la línea 17 (arriba), borra "PEGAR_TU_CLAVE_AQUI" y pon tu clave real.
 # Mantén las comillas. Ejemplo: API_KEY = "AIzaSyD_tus_numeros..."
